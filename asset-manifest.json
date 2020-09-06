@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Munaa8805/burger.git/static/css/main.20b964ec.chunk.css",
-    "main.js": "/Munaa8805/burger.git/static/js/main.185e43c3.chunk.js",
-    "main.js.map": "/Munaa8805/burger.git/static/js/main.185e43c3.chunk.js.map",
-    "runtime-main.js": "/Munaa8805/burger.git/static/js/runtime-main.df3998bf.js",
-    "runtime-main.js.map": "/Munaa8805/burger.git/static/js/runtime-main.df3998bf.js.map",
-    "static/js/2.90b27ca4.chunk.js": "/Munaa8805/burger.git/static/js/2.90b27ca4.chunk.js",
-    "static/js/2.90b27ca4.chunk.js.map": "/Munaa8805/burger.git/static/js/2.90b27ca4.chunk.js.map",
-    "index.html": "/Munaa8805/burger.git/index.html",
-    "precache-manifest.5025a246f178376e36eb140f37185fd2.js": "/Munaa8805/burger.git/precache-manifest.5025a246f178376e36eb140f37185fd2.js",
-    "service-worker.js": "/Munaa8805/burger.git/service-worker.js",
-    "static/css/main.20b964ec.chunk.css.map": "/Munaa8805/burger.git/static/css/main.20b964ec.chunk.css.map",
-    "static/js/2.90b27ca4.chunk.js.LICENSE.txt": "/Munaa8805/burger.git/static/js/2.90b27ca4.chunk.js.LICENSE.txt",
-    "static/media/burger-logo.png": "/Munaa8805/burger.git/static/media/burger-logo.b8503d26.png"
+    "main.css": "/burger.git/static/css/main.20b964ec.chunk.css",
+    "main.js": "/burger.git/static/js/main.481877c1.chunk.js",
+    "main.js.map": "/burger.git/static/js/main.481877c1.chunk.js.map",
+    "runtime-main.js": "/burger.git/static/js/runtime-main.d757a5b1.js",
+    "runtime-main.js.map": "/burger.git/static/js/runtime-main.d757a5b1.js.map",
+    "static/js/2.90b27ca4.chunk.js": "/burger.git/static/js/2.90b27ca4.chunk.js",
+    "static/js/2.90b27ca4.chunk.js.map": "/burger.git/static/js/2.90b27ca4.chunk.js.map",
+    "index.html": "/burger.git/index.html",
+    "precache-manifest.2f1a3352850a439e5069fcb0451088bf.js": "/burger.git/precache-manifest.2f1a3352850a439e5069fcb0451088bf.js",
+    "service-worker.js": "/burger.git/service-worker.js",
+    "static/css/main.20b964ec.chunk.css.map": "/burger.git/static/css/main.20b964ec.chunk.css.map",
+    "static/js/2.90b27ca4.chunk.js.LICENSE.txt": "/burger.git/static/js/2.90b27ca4.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/burger.git/static/media/burger-logo.b8503d26.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.df3998bf.js",
+    "static/js/runtime-main.d757a5b1.js",
     "static/js/2.90b27ca4.chunk.js",
     "static/css/main.20b964ec.chunk.css",
-    "static/js/main.185e43c3.chunk.js"
+    "static/js/main.481877c1.chunk.js"
   ]
 }
